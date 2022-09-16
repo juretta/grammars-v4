@@ -1,0 +1,1 @@
+line 2:7 mismatched input '*' expecting {<EOF>, ';', ',', 'EXCEPT', 'GROUP', 'INDEXED', 'INTERSECT', 'LIMIT', 'NOT', 'ORDER', 'UNION', 'WHERE', 'WINDOW'}

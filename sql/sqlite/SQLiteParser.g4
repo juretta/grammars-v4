@@ -34,7 +34,7 @@ options {
     tokenVocab = SQLiteLexer;
 }
 
-parse: (sql_stmt_list)* EOF
+parse: (sql_stmt_list)? EOF
 ;
 
 sql_stmt_list:
